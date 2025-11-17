@@ -1,0 +1,9 @@
+*.o
+*.kernel
+*.iso
+*.img
+iso/
+build/
+.DS_Store
+*.swp
+*.swo

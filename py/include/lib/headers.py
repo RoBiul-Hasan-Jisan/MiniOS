@@ -1,0 +1,54 @@
+"""
+Library Header Definitions
+"""
+
+# Standard C library constants
+NULL = 0
+EOF = -1
+
+# File stream numbers
+STDIN_FILENO = 0
+STDOUT_FILENO = 1
+STDERR_FILENO = 2
+
+# File open modes
+O_RDONLY = 0x0000
+O_WRONLY = 0x0001
+O_RDWR = 0x0002
+O_CREAT = 0x0100
+O_TRUNC = 0x0200
+O_APPEND = 0x0400
+
+# Standard exit codes
+EXIT_SUCCESS = 0
+EXIT_FAILURE = 1
+
+# Memory allocation flags
+MALLOC_NORMAL = 0x00
+MALLOC_ZERO = 0x01
+
+# String search constants
+STR_NOT_FOUND = -1
+
+# Math constants
+MATH_PI = 3.141592653589793
+MATH_E = 2.718281828459045
+
+# Error numbers
+ERRNO_SUCCESS = 0
+ERRNO_PERM = 1
+ERRNO_NOENT = 2
+ERRNO_SRCH = 3
+ERRNO_INTR = 4
+ERRNO_IO = 5
+ERRNO_NXIO = 6
+ERRNO_NOMEM = 12
+ERRNO_ACCES = 13
+ERRNO_FAULT = 14
+ERRNO_BUSY = 16
+ERRNO_EXIST = 17
+ERRNO_INVAL = 22
+ERRNO_NFILE = 23
+ERRNO_MFILE = 24
+ERRNO_FBIG = 27
+ERRNO_NOSPC = 28

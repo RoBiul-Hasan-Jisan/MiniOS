@@ -1,0 +1,53 @@
+
+**`.gitignore`**
+```gitignore
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+logs/*.log
+*.log
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# Profiling data
+*.prof
+*.lineprof
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Test data
+test_data/
