@@ -22,21 +22,6 @@ MiniOS is an educational operating system project with two independent implement
 
 ---
 
-##  Table of Contents
-
-- [Overview](#-overview)
-- [Features](#-features)
-- [Architecture](#-architecture)
-- [Screenshots](#-screenshots)
-- [Getting Started](#-getting-started)
-  - [Python Simulation](#python-simulation-fastest-way-to-try-it)
-  - [C / Bare-Metal Kernel](#c--bare-metal-kernel)
-- [Shell Commands](#-shell-commands)
-- [Project Structure](#-project-structure)
-- [Testing](#-testing)
-- [Roadmap](#-roadmap)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
