@@ -3,7 +3,7 @@ Initial RAM Disk Simulation
 """
 
 import time
-from include.kernel.types import FileType, File  # Ensure these are imported
+from include.kernel.types import FileType, File 
 
 class InitRD:
     def __init__(self):
